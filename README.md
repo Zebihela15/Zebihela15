@@ -39,7 +39,7 @@ Hiện tại mình đang học và phát triển kỹ năng về **SQL, Python, 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zebihela15/Zebihela15/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Zebihela15/Zebihela15/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </div>
 
 ## 🛠️ Language and Tools
